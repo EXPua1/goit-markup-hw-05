@@ -612,6 +612,7 @@ a {
   color: #8e8f99;
   display: block;
   margin-bottom: 4px;
+  font-weight: 400;
 }
 .modal_form_name_container {
   position: relative;
@@ -669,6 +670,7 @@ a {
   outline: transparent;
   resize: none;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  display: block;
 }
 
 .modal_comments_text:focus {
@@ -677,6 +679,9 @@ a {
 
 .modal_check_box {
   margin-bottom: 24px;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
 }
 
 .modal_check_box_user_privacy {
@@ -684,8 +689,11 @@ a {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
+  margin: 0 auto;
 }
-
+.formd {
+  align-content: baseline;
+}
 .modal_check_box_user_privacy_span {
   width: 16px;
   height: 16px;
@@ -710,6 +718,9 @@ a {
 
 .modal_link {
   color: #4d5ae5;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  line-height: 133%;
 }
 
 .modal_button_send {

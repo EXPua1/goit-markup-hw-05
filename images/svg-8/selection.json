@@ -4,41 +4,29 @@
     {
       "icon": {
         "paths": [
-          "M128 32h768c53.019 0 96 42.981 96 96v768c0 53.019-42.981 96-96 96h-768c-53.019 0-96-42.981-96-96v-768c0-53.019 42.981-96 96-96z"
+          "M512 512c94.293 0 170.667-76.373 170.667-170.667s-76.373-170.667-170.667-170.667c-94.293 0-170.667 76.373-170.667 170.667s76.373 170.667 170.667 170.667zM512 597.333c-113.92 0-341.333 57.173-341.333 170.667v42.667c0 23.467 19.2 42.667 42.667 42.667h597.333c23.467 0 42.667-19.2 42.667-42.667v-42.667c0-113.493-227.413-170.667-341.333-170.667z"
         ],
         "attrs": [
-          {
-            "fill": "none",
-            "strokeLinejoin": "miter",
-            "strokeLinecap": "butt",
-            "strokeMiterlimit": "4",
-            "strokeWidth": 64
-          }
+          {}
         ],
         "isMulticolor": false,
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
-          "Checkbox"
+          "person-black-18dp 1"
         ]
       },
       "attrs": [
-        {
-          "fill": "none",
-          "strokeLinejoin": "miter",
-          "strokeLinecap": "butt",
-          "strokeMiterlimit": "4",
-          "strokeWidth": 64
-        }
+        {}
       ],
       "properties": {
-        "order": 33,
-        "id": 4,
-        "name": "Checkbox",
+        "order": 36,
+        "id": 3,
+        "name": "person",
         "prevSize": 32
       },
-      "setIdx": 4,
-      "setId": 4,
+      "setIdx": 0,
+      "setId": 8,
       "iconIdx": 0
     }
   ],
@@ -74,7 +62,7 @@
     "showCodes": true,
     "gridSize": 16,
     "quickUsageToken": {
-      "UntitledProject": "ZWE3MjY4Y2E1MCMxNzEzOTU4NDYwI1pKemJKUDJkYkJrS0d4TStZOXNLREhGQXZoVisydEE4R2twSnh4V2VSV2kw"
+      "UntitledProject": "MWY0NmMwZDIyNiMxNzE0MTI0MjU3I1lYUkRXUHQvSFlkV3Rhd2s2RjZCdXF3eTNMT0Y3Z2xKQUcvbGR3ekJOWGE1"
     }
   }
 }
